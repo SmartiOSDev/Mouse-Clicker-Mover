@@ -8,6 +8,13 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Mouse Clicker & Mover unless otherwise defined in this Privacy Policy.
 
+**Purchase App**
+
+Mouse Clicker app provide basic mouse movements functionality with pay small amount of price.
+
+**Purchase Subscription**
+
+Mouse Clicker app provide additional features with purchase subscription. If you want use extra features then you must to purchase one year subscription.
 
 **Data**
 
