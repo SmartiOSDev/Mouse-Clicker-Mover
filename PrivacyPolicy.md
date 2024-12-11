@@ -10,11 +10,14 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Purchase App**
 
-Mouse Clicker app provide basic mouse movements functionality with pay small amount of price.
+
+The Mouse Clicker app offers basic mouse movement functionality for a one-time purchase at an affordable price.
 
 **Purchase Subscription**
 
-Mouse Clicker app provide additional features with purchase subscription. If you want use extra features then you must to purchase one year subscription.
+
+The Mouse Clicker app also provides additional premium features available through a subscription plan. To access these extra features, you must purchase a one-year subscription, valid for one year from the date of purchase.
+
 
 **Data**
 
