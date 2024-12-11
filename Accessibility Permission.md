@@ -1,5 +1,8 @@
 **Please follow these steps**
 
+Video for steps https://youtu.be/fmEfu8J9nmQ
+
+
 1. Open "System Preferences" from the Apple menu or by searching in Spotlight.
 2. Click on "Security & Privacy."
 3. Go to the "Privacy" tab.
